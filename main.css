@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background-color: #000;
+}
+
+.find-num {
+    width: 700px;
+    margin: 200px auto 0;
+    padding: 50px;
+    text-align: center;
+    border: 2px solid #0000ff;
+    border-radius: 15px;
+    background-color: #0000ff;
+}
+
+.num-inp {
+    display: block;
+    text-align: center;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.find-btn {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #c7c4dc;
+}
+
+.result {
+    color: #fff;
+}
+
+.attempt {
+    color: #fff;
+}
